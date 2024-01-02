@@ -1,7 +1,8 @@
 ## 概要
 
-`Remix` に TailwindCSS を入れただけの最小構成のテンプレート
-clone してすぐ使えます
+`Remix` に `TailwindCSS` を入れただけの最小構成のテンプレート
+
+`clone` してすぐ使えます
 
 ## Welcome to Remix!
 
