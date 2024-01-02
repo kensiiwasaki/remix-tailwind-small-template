@@ -1,5 +1,7 @@
 # Welcome to Remix!
 
+テンプレート
+
 - [Remix Docs](https://remix.run/docs)
 
 ## Development
