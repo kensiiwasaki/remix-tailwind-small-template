@@ -1,6 +1,9 @@
-# Welcome to Remix!
+## 概要
 
-テンプレート
+`Remix` に TailwindCSS を入れただけの最小構成のテンプレート
+clone してすぐ使えます
+
+## Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
 
